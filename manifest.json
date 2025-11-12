@@ -1,0 +1,23 @@
+{
+  "short_name": "Resist Calc",
+  "name": "Calculadora de Valor de Resistencia",
+  "description": "Calcula el valor de una resistencia en ohmios seleccionando los colores de sus bandas o usando la cámara de tu dispositivo para analizarlas automáticamente.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1f2937",
+  "background_color": "#111827"
+}
