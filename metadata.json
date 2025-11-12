@@ -1,0 +1,7 @@
+{
+  "name": "Calculadora de Valor de Resistencia",
+  "description": "Calcula el valor de una resistencia en ohmios seleccionando los colores de sus bandas o usando la cámara de tu dispositivo para analizarlas automáticamente.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
